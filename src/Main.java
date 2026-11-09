@@ -11,7 +11,7 @@ public class Main {
 
           System.out.println("Книга: " + book1.getBookName() + ", автор: " + author1.getFirstName() + " " + author1.getLastName());
           System.out.println("Книга: " + book2.getBookName() + ", автор: " + author2.getFirstName() + " " + author2.getLastName());
-          book2.setYearPublication(1865);
+          book2.setYearPublication(2025);
           System.out.println("год выпуска: " + book2.getYearPublication());
       }
 
